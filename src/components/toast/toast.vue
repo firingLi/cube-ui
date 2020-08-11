@@ -125,7 +125,6 @@
     line-height: 20px
     font-size: $fontsize-medium
     max-width: 12em
-    max-height: 40px
     overflow: hidden
   .cube-toast-icon, .cube-loading
     ~ .cube-toast-tip
