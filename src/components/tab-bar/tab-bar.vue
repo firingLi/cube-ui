@@ -16,7 +16,7 @@
   import { prefixStyle } from '../../common/helpers/dom'
   import { findIndex } from '../../common/helpers/util'
   import CubeTab from './tab.vue'
-
+  // this is a comment
   const COMPONENT_NAME = 'cube-tab-bar'
 
   const EVENT_INPUT = 'input'
